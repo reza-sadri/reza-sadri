@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @reza-sadri
+- 👀 I’m interested in JavaScript
+- 🌱 I’m currently learning Node.js
